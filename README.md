@@ -6,3 +6,4 @@
   <li>XGBoost emerged as the most effective model for detecting phishing websites based on the project's evaluations.</li>
   <li>The project's findings emphasize the significance of machine learning in cybersecurity, providing a proactive defense mechanism against online threats through accurate phishing website detection.</li>
 </ul>
+ 
